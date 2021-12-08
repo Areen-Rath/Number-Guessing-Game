@@ -3,7 +3,6 @@ import random
 number = random.randint(1, 9)
 chances = 0
 
-print(number)
 print("Number Guessing Game")
 print("Guess a number (between 1 to 9)")
 
